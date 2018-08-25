@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">App Restaurante</string>
+    <string name="reminder">Ingrese el dato</string>
 </resources>
